@@ -1,0 +1,63 @@
+/* additional styles */
+		body {
+			background: url(flame.png)no-repeat center center fixed ;
+			  -webkit-background-size: cover;
+			  -moz-background-size: cover;
+			  -o-background-size: cover;
+			  background-size: cover;
+
+		}
+		.btn {
+			 color: #fffac8;
+		}
+
+		.wellStyle {
+			background-color: rgba(226,64,4,.55);
+			border-color: #7e2504;
+
+		}
+		.wellStyle2 {
+			background-color: rgba(226,64,4,.55);
+			border-color: #7e2504;
+		}
+		.headerH1 {
+			text-align:center;
+			margin-bottom: 40px;
+			color: #fffac8;
+			font-family: 'Kaushan Script', cursive;	
+			font-size: 4em;
+		}
+		.tempReturn {
+			margin-top:10px;
+			width:100px;
+			height:100px;
+			border-radius: 100%;
+			text-align:center;
+			display: inline-block;
+			color:#fffac8;
+
+		}
+		.tempReturn2 {
+			margin-top:10px;
+			width:100px;
+			height:100px;
+			border-radius: 100%;
+			text-align:center;
+			display: inline-block;
+			color:#fffac8;
+
+		}
+		.makeFire {
+			background-color: rgba(226,64,4,.55);
+			border-color: #7e2504;
+		}
+		.makeRain {
+			background-color: rgba(226,64,4,.55);
+			border-color: #7e2504;
+		}
+		.clearAll {
+			background-color: rgba(226,64,4,.55);
+			border-color: #7e2504;
+
+		}
+		
